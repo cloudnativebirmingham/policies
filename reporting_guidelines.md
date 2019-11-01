@@ -1,7 +1,7 @@
 # Reporting Guidelines
 
 If you believe someone is violating the code of conduct we ask that you report it to the Docker Birmingham by 
-emailing [conduct@dockerbirmingham.org]() 
+emailing [conduct@dockerbirmingham.org](mailto:conduct@dockerbirminggham.org) 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. 
 If that's the case, the identities of all victims and reporters will remain confidential unless those individuals 
