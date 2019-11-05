@@ -76,7 +76,7 @@ without refund in the case of a paid event).
 ## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community 
-organizer as soon as possible. [conduct@dockerbirminggham.org](mailto:conduct@dockerbirminggham.org).
+organizer as soon as possible. [conduct@dockerbirmingham.org](mailto:conduct@dockerbirminggham.org).
 
 [Reporting Guidelines](/reporting_guidelines.md)
 
@@ -87,7 +87,7 @@ will also provide escorts as desired by the person experiencing distress.
 ## 8. Addressing Grievances
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the 
-Docker Birmingham Organisers at [organisers@dockerbirminggham.org](mailto:organisers@dockerbirminggham.org) with your appeal and the organisers will review 
+Docker Birmingham Organisers at [organisers@dockerbirmingham.org](mailto:organisers@dockerbirmingham.org) with your appeal and the organisers will review 
 the case.
 
 ## 9. Scope
