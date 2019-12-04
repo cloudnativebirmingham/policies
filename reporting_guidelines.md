@@ -1,7 +1,7 @@
 # Reporting Guidelines
 
-If you believe someone is violating the code of conduct we ask that you report it to the Docker Birmingham by 
-emailing [conduct@dockerbirmingham.org](mailto:conduct@dockerbirminggham.org) 
+If you believe someone is violating the code of conduct we ask that you report it to the CNCF Birmingham by 
+emailing [info@cloudnativebirmingham.dev](mailto:info@cloudnativebirmingham.dev) 
 
 **All reports will be kept confidential.** In some cases we may determine that a public statement will need to be made. 
 If that's the case, the identities of all victims and reporters will remain confidential unless those individuals 
@@ -24,7 +24,7 @@ In your report please include:
 
 ## What happens after you file a report?
 
-You will receive an email from the Docker Birmingham's Code of Conduct response team acknowledging receipt as soon as 
+You will receive an email from the CNCF Birmingham's Code of Conduct response team acknowledging receipt as soon as 
 possible, but within 24 hours.
 
 The working group will immediately meet to review the incident and determine:
@@ -44,7 +44,7 @@ include:
 * A private reprimand from the Code of Conduct response team to the individual(s) involved.
 * A public reprimand.
 * An imposed vacation (i.e. asking someone to "take a week off" from a mailing list or IRC).
-* A permanent or temporary ban from some or all Docker Birmingham spaces (events, meetings, mailing lists, IRC, etc.)
+* A permanent or temporary ban from some or all CNCF Birmingham spaces (events, meetings, mailing lists, IRC, etc.)
 * A request to engage in mediation and/or an accountability plan.
 
 We'll respond within one week to the person who filed the report with either a resolution or an explanation of why the 
@@ -60,7 +60,7 @@ choose to issue a public report of the incident or take additional actions.
 ## Appealing the response
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the 
-Docker Birmingham Organisers at [organisers@dockerbirmingham.org]() with your appeal and the Syndicate board will 
+Docker Birmingham Organisers at [info@cloudnativebirmingham.dev]() with your appeal and the Syndicate board will 
 review the case.
 
 _Revision 1.0 Nov 2019_
