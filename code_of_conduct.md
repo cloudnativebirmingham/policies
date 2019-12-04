@@ -2,14 +2,14 @@
 
 ## 1. Purpose
 
-A primary goal of Docker Birmingham is to be inclusive to the largest number of contributors, with the most varied and 
+A primary goal of CNCF Birmingham is to be inclusive to the largest number of contributors, with the most varied and 
 diverse backgrounds possible. As such, we are committed to providing a friendly, safe and welcoming environment for 
 all, regardless of gender, sexual orientation, ability, ethnicity, socioeconomic status, and religion (or lack thereof).
 
 This code of conduct outlines our expectations for all those who participate in our community, as well as the 
 consequences for unacceptable behavior.
 
-We invite all those who participate in Docker Birmingham to help us create safe and positive experiences for everyone.
+We invite all those who participate in CNCF Birmingham to help us create safe and positive experiences for everyone.
 
 ## 2. Open Source, Culture & Tech Citizenship
 
@@ -55,7 +55,7 @@ The following behaviors are considered harassment and are unacceptable within ou
 
 ## 5. Weapons Policy
 
-No weapons will be allowed at Docker Birmingham events, community spaces, or in other spaces covered by the scope 
+No weapons will be allowed at CNCF Birmingham events, community spaces, or in other spaces covered by the scope 
 of this Code of Conduct. Weapons include but are not limited to guns, explosives (including fireworks), and large 
 knives such as those used for hunting or display, as well as any other item used for the purpose of causing injury or 
 harm to others. Anyone seen in possession of one of these items will be asked to leave immediately, and will only be 
@@ -76,7 +76,7 @@ without refund in the case of a paid event).
 ## 7. Reporting Guidelines
 
 If you are subject to or witness unacceptable behavior, or have any other concerns, please notify a community 
-organizer as soon as possible. [conduct@dockerbirmingham.org](mailto:conduct@dockerbirminggham.org).
+organizer as soon as possible. [info@cloudnativebirmingham.dev](mailto:info@cloudnativebirmingham.dev).
 
 [Reporting Guidelines](/reporting_guidelines.md)
 
@@ -87,7 +87,7 @@ will also provide escorts as desired by the person experiencing distress.
 ## 8. Addressing Grievances
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the 
-Docker Birmingham Organisers at [organisers@dockerbirmingham.org](mailto:organisers@dockerbirmingham.org) with your appeal and the organisers will review 
+CNCF Birmingham Organisers at [info@cloudnativebirmingham.dev](mailto:info@cloudnativebirmingham.dev) with your appeal and the organisers will review 
 the case.
 
 ## 9. Scope
@@ -102,11 +102,11 @@ members.
 
 ## 10. Contact info
 
-[info@dockerbirmingham.org](mailto:info@dockerbirminggham.org)
+[info@dockerbirmingham.org](mailto:info@cloudnativebirmingham.dev)
 
 ## 11. License and attribution
 
-The Code of Conduct is distributed by [Docker Birmingham](https://dockerbirmingham.org) under 
+The Code of Conduct is distributed by [CNCF Birmingham](https://cloudnativebirmingham.dev) under 
 a [Creative Commons Attribution-ShareAlike license](http://creativecommons.org/licenses/by-sa/3.0/). 
 
 Portions of text derived from the [Django Code of Conduct](https://www.djangoproject.com/conduct/) and 
@@ -114,4 +114,4 @@ the [Geek Feminism Anti-Harassment Policy](http://geekfeminism.wikia.com/wiki/Co
 
 With thanks to [Stumptown Syndicate](http://stumptownsyndicate.org/) for providing a fantastic set of templates!
 
-_Revision 1.0, adopted by the [Docker Birmingham]() organisers on 1 Nov 2019.
+_Revision 1.0, adopted by the [CNCF Birmingham]() organisers on 1 Nov 2019.
