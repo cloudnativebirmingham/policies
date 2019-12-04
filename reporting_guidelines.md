@@ -60,7 +60,7 @@ choose to issue a public report of the incident or take additional actions.
 ## Appealing the response
 
 Only permanent resolutions (such as bans) may be appealed. To appeal a decision of the working group, contact the 
-Docker Birmingham Organisers at [info@cloudnativebirmingham.dev]() with your appeal and the Syndicate board will 
+Docker Birmingham Organisers at [info@cloudnativebirmingham.dev](mailto:info@cloudnativebirmingham.dev) with your appeal and the Syndicate board will 
 review the case.
 
 _Revision 1.0 Nov 2019_
